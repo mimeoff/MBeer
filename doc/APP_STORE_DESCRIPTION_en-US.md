@@ -1,51 +1,37 @@
-# Mac App Store Description - English (US)
+# Mbeer: Craft Beer Recipe & Brewing Assistant (Project Overview)
 
-| Field | Content | Limit |
-| :--- | :--- | :--- |
-| **Name** | Mbeer | 30 |
-| **Subtitle** | Professional Craft Beer Brewing Assistant | 30 |
-| **Keywords** | craft beer,brewing,recipe,calculator,homebrew,hops,malt,yeast,bjcp,brewer,Mbeer | 100 |
+Mbeer is a local-first brewing companion for craft beer enthusiasts and professional brewers. It brings recipe design, key metric calculations, end-to-end brew tracking, and visual analytics into one workflow so you can hit your target profile and reliably reproduce your best batches.
 
-### Promotional Text
+## Who It’s For
 
-Whether you're a homebrewer or a pro, Mbeer helps you design recipes, calculate stats, and track your brew day with ease. Your ultimate brewing companion.
+| Audience | What You Get |
+| --- | --- |
+| New homebrewers | Guided tracking + key calculations to reduce trial-and-error |
+| Advanced brewers | Faster iteration with real-time stats while tweaking recipes |
+| Pros / small breweries | Batch records that are traceable, repeatable, and easy to review |
 
-### Description
+## Key Capabilities
 
-Mbeer is a comprehensive management tool designed specifically for craft beer enthusiasts and professional brewers. Whether you are a beginner taking your first steps in homebrewing or a seasoned brewmaster, Mbeer provides the tools you need to make brewing great beer easier than ever.
+| Area | What It Does | Why It Matters |
+| --- | --- | --- |
+| Smart Recipe Design | Built-in BJCP style guidance; real-time OG/FG/ABV/IBU/SRM calculations | See impact instantly as you adjust a recipe |
+| Full Process Tracking | Log mash/boil/fermentation/aging with time, temperature, gravity | Improve consistency and reproduce great results |
+| Ingredient Library | Manage malt/hops/yeast/misc inventory; custom ingredients supported | Stay prepared and build a reusable ingredient knowledge base |
+| Visual Analytics | Charts for fermentation trends, inventory changes, cost breakdowns | Optimize process decisions with data |
+| Privacy First | Local storage; works offline | Your recipes stay on your device |
+| Multi-language | English / Chinese / German / French | Easier collaboration across regions |
 
-**Key Features:**
+## Keywords
 
-🍺 **Smart Recipe Design**
-Built-in BJCP style guidelines help you craft the perfect beer. Get real-time calculations for Original Gravity (OG), Final Gravity (FG), ABV, IBU, SRM, and more as you adjust your recipe.
+craft beer, brewing, recipe, calculator, homebrew, hops, malt, yeast, BJCP
 
-📊 **Full Process Tracking**
-Digitize your brew day. Track every step from mashing and boiling to fermentation and aging. Record time, temperature, and gravity readings to ensure consistency across batches and replicate your best brews.
+## Screenshots (en-US)
 
-🌾 **Comprehensive Ingredient Library**
-Manage your inventory of fermentables, hops, yeast, and misc ingredients. Add custom ingredients and track stock levels in real-time, so you never run out of supplies on brew day.
+|  |  |  |
+| --- | --- | --- |
+| ![](../pic/en-US/pic/pic1.png) | ![](../pic/en-US/pic/pic2.png) | ![](../pic/en-US/pic/pic3.png) |
+| ![](../pic/en-US/pic/pic4.png) | ![](../pic/en-US/pic/pic5.png) | ![](../pic/en-US/pic/pic6.png) |
 
-📈 **Data Visualization & Analytics**
-Visualize fermentation trends, inventory changes, and cost breakdowns with intuitive charts. Let data help you optimize your brewing process and control costs.
+## Links
 
-🔒 **Privacy First**
-We know your recipes are your intellectual property. Mbeer uses a local-first storage strategy, keeping all your data secure on your device. No internet connection required.
-
-🌍 **Multi-language Support**
-Native support for English, Chinese, German, and French.
-
-**Why Mbeer?**
-
-- **Professional**: Based on rigorous brewing formulas and data models.
-- **User-Friendly**: Modern UI designed for a smooth experience.
-- **Independent**: One-time purchase, no hidden subscriptions.
-
-Download Mbeer today and start brewing your best beer!
-
-### Support URL
-
-https://github.com/liuzhao/Mbeer_V1
-
-### Marketing URL
-
-https://github.com/liuzhao/Mbeer_V1
+- Repository: https://github.com/mimeoff/MBeer

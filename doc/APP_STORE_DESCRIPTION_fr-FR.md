@@ -1,51 +1,37 @@
-# Mac App Store Description - Français (French)
+# Mbeer : Assistant de brassage de bière artisanale (Présentation du projet)
 
-| Champ | Contenu | Limite |
-| :--- | :--- | :--- |
-| **Nom** | Mbeer | 30 |
-| **Sous-titre** | Assistant de Brassage de Bière Artisanale | 30 |
-| **Mots-clés** | bière artisanale,brassage,recette,calculateur,brasseur amateur,houblon,malt,levure,bière,Mbeer | 100 |
+Mbeer est un outil local-first pour les amateurs de bière artisanale et les brasseurs professionnels. Il regroupe la conception de recettes, le calcul des indicateurs, le suivi complet du brassage et la visualisation des données, afin d’atteindre plus facilement le profil souhaité et de reproduire vos meilleurs brassins.
 
-### Texte promotionnel (Promotional Text)
+## Pour qui ?
 
-Que vous soyez brasseur amateur ou pro, Mbeer vous aide à concevoir des recettes, calculer les paramètres et suivre votre brassage facilement. Votre compagnon ultime.
+| Public | Bénéfice |
+| --- | --- |
+| Débutants | Suivi structuré + calculs essentiels pour limiter les essais/erreurs |
+| Brasseurs avancés | Itérations rapides avec des statistiques en temps réel |
+| Pros / petites brasseries | Historique de lots traçable et reproductible |
 
-### Description
+## Fonctionnalités principales
 
-Mbeer est un outil de gestion complet conçu pour les amateurs de bière artisanale et les brasseurs professionnels. Que vous soyez débutant ou maître brasseur expérimenté, Mbeer vous fournit les outils nécessaires pour rendre le brassage de bonnes bières plus facile que jamais.
+| Domaine | Fonction | Valeur |
+| --- | --- | --- |
+| Recettes intelligentes | Guides BJCP intégrés ; calculs OG/FG/ABV/IBU/SRM en temps réel | Visualiser l’impact de chaque ajustement |
+| Suivi de processus | Empâtage/ébullition/fermentation/maturation : temps, température, densité | Améliorer la constance et répéter les réussites |
+| Bibliothèque d’ingrédients | Gestion malt/houblon/levure/additifs ; ingrédients personnalisés | Mieux gérer le stock et capitaliser la connaissance |
+| Visualisation | Graphiques : tendances de fermentation, stock, coûts | Optimiser avec une approche data-driven |
+| Confidentialité | Stockage local ; utilisable hors ligne | Vos recettes restent sur l’appareil |
+| Langues | Français / Anglais / Chinois / Allemand | Collaboration plus simple à l’international |
 
-**Fonctionnalités Clés :**
+## Mots-clés
 
-🍺 **Conception de Recettes Intelligente**
-Les guides de style BJCP intégrés vous aident à créer la bière parfaite. Obtenez des calculs en temps réel pour la densité initiale (OG), la densité finale (FG), l'alcool (ABV), l'amertume (IBU), la couleur (SRM), et plus encore.
+bière artisanale, brassage, recette, calculateur, houblon, malt, levure, BJCP
 
-📊 **Suivi Complet du Processus**
-Numérisez votre journée de brassage. Suivez chaque étape, de l'empâtage et de l'ébullition à la fermentation et au vieillissement. Enregistrez le temps, la température et la densité pour assurer la cohérence entre les lots.
+## Captures d’écran (fr-FR)
 
-🌾 **Bibliothèque d'Ingrédients Complète**
-Gérez votre stock de malts, houblons, levures et additifs. Ajoutez des ingrédients personnalisés et suivez les niveaux de stock en temps réel pour ne jamais manquer de rien.
+|  |  |  |
+| --- | --- | --- |
+| ![](../pic/fr-FR/pic/pic1.png) | ![](../pic/fr-FR/pic/pic2.png) | ![](../pic/fr-FR/pic/pic3.png) |
+| ![](../pic/fr-FR/pic/pic4.png) | ![](../pic/fr-FR/pic/pic5.png) | ![](../pic/fr-FR/pic/pic6.png) |
 
-📈 **Visualisation des Données**
-Visualisez les tendances de fermentation, les changements de stock et les coûts avec des graphiques intuitifs. Laissez les données vous aider à optimiser votre processus.
+## Liens
 
-🔒 **Confidentialité Avant Tout**
-Vos recettes sont précieuses. Mbeer utilise une stratégie de stockage local, gardant toutes vos données sécurisées sur votre appareil. Aucune connexion internet requise.
-
-🌍 **Support Multilingue**
-Disponible en français, anglais, chinois et allemand.
-
-**Pourquoi Mbeer ?**
-
-- **Professionnel** : Basé sur des formules de brassage rigoureuses.
-- **Convivial** : Interface moderne conçue pour une expérience fluide.
-- **Indépendant** : Achat unique, pas d'abonnement caché.
-
-Téléchargez Mbeer dès aujourd'hui et brassez votre meilleure bière !
-
-### URL d'assistance (Support URL)
-
-https://github.com/liuzhao/Mbeer_V1
-
-### URL Marketing (Marketing URL)
-
-https://github.com/liuzhao/Mbeer_V1
+- Dépôt : https://github.com/mimeoff/MBeer
