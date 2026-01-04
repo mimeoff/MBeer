@@ -20,6 +20,13 @@ Mbeer is a local-first brewing companion for craft beer enthusiasts and professi
 | German | doc/APP_STORE_DESCRIPTION_de-DE.md |
 | French | doc/APP_STORE_DESCRIPTION_fr-FR.md |
 
+## Privacy Policy
+
+- Privacy Policy (default): PRIVACY_POLICY.md
+- Simplified Chinese: pri/PRIVACY_POLICY_zh-CN.md
+- German: pri/PRIVACY_POLICY_de-DE.md
+- French: pri/PRIVACY_POLICY_fr-FR.md
+
 ## Screenshots
 
 ### English (en-US)
